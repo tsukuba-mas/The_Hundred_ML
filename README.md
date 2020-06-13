@@ -69,4 +69,9 @@ python -c 'from notebook.auth import passwd;print(passwd())'
 https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/ipynbのへのリンク
 ```
 
+example
+
+https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/work/chapter1/SVM.ipynb
+
+
 
