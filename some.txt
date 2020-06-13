@@ -1,0 +1,1 @@
+docker run --rm -e TZ=Asia/Tokyo -p 8888:8888 --name jupyterlab -v `pwd`/work:/home/jovyan/work jupyterlab:latest start.sh jupyter lab --NotebookApp.password="sha1:0bc3c0007e78:09584e6aadef2838c94f6b22c9354ec1b07fe454"
