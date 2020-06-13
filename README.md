@@ -7,6 +7,8 @@
 
 [公式サイト](http://themlbook.com/)
 
+[公式Wiki](http://themlbook.com/wiki/doku.php?id=start&do=index)
+
 ["read first, buy later"](http://themlbook.com/wiki/doku.php)であり、ドラフト版を見ることができる。
 
 # Environment
