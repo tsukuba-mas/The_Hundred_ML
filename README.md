@@ -1,4 +1,4 @@
-# The_Hundred_ML
+# the hundred-page machine learning book 🦊
 
 <div align="center">
     <img src="images/book.jpg" width="400px">
@@ -11,7 +11,14 @@
 
 ["read first, buy later"](http://themlbook.com/wiki/doku.php)であり、ドラフト版を見ることができる。
 
-# Environment
+# setup 🦊
+
+```bash
+git clone https://github.com/tsukuba-mas/The_Hundred_ML.git
+cd The_Hundred_ML
+```
+
+# Environment 🦊
 
 
 ```bash
@@ -54,4 +61,12 @@ docker run --rm -e TZ=Asia/Tokyo -p 8888:8888 --name jupyterlab -v `pwd`/work:/h
 python -c 'from notebook.auth import passwd;print(passwd())'
 
 ```
+
+# Google Colaboratory 🦊
+
+
+```
+https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/ipynbのへのリンク
+```
+
 
