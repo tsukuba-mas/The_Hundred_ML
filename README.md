@@ -31,8 +31,10 @@ cat > Dockerfile <<EOF
 FROM jupyter/datascience-notebook
 
 RUN pip install --upgrade pip
-RUN pip install jupyterlab
+RUN pip install jupyterlab RISE
 RUN jupyter serverextension enable --py jupyterlab
+RUN jupyter-nbextension install rise --py --sys-prefix
+RUN jupyter-nbextension enable rise --py --sys-prefix
 EOF
 
 # jupyterlab:latestというイメージをビルド
@@ -47,6 +49,8 @@ docker run --rm -it \
 # Verify password:
 # sha1:xxxxx~~~xxxx
 
+
+# Jupyter Lab
 # --rm コンテナ終了時に削除
 # p　my_port:container_port
 # --name コンテナ名
@@ -55,7 +59,10 @@ docker run --rm -it \
 # start.sh jupyter lab --NotebookApp.password="sha1:xxxxxxxxxxxxxxxxxxxxxxxx" コンテナに実行させるコマンド
 docker run --rm -e TZ=Asia/Tokyo -p 8888:8888 --name jupyterlab -v `pwd`/work:/home/jovyan/work jupyterlab:latest start.sh jupyter lab --NotebookApp.password="xxxxxxxx"
 
-# http://localhost:8888
+# Jupyter Notebook
+docker run --rm -e TZ=Asia/Tokyo -p 8888:8888 --name jupyterlab -v (pwd)/work:/home/jovyan/work jupyterlab:latest start.sh jupyter notebook --NotebookApp.password="xxxxxxxx"
+
+# open http://localhost:8888
 
 # NotebookApp.passwordを忘れたとき
 python -c 'from notebook.auth import passwd;print(passwd())'
