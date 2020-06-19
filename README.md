@@ -85,11 +85,11 @@ https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/
 
 ### Chapter1 Introduction
 
-- [ ] [1.1-1.4]
+- [x] [1.1-1.4]
 
 ### Chapter2 Notation and Definitions
 
-- [ ] [2.1-2.8]
+- [x] [2.1-2.8]
 
 ### Chapter3 Fundamental Algorithmes
 
