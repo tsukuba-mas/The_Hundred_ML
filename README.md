@@ -14,7 +14,7 @@
 # about
 
 - Please edit freely.
-  - 自由に荒らす
+  - チームは自由に編集できるようになっている･･･はず･･･（権限ミスあるかもです）
 
 <div align="center">
     <img src="images/wani.jpeg" width="400px">
