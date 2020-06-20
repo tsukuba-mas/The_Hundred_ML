@@ -11,6 +11,16 @@
 
 ["read first, buy later"](http://themlbook.com/wiki/doku.php)であり、ドラフト版を見ることができる。
 
+# about
+
+- Please edit freely.
+  - 自由に荒らす
+
+<div align="center">
+    <img src="images/wani.jpeg" width="400px">
+</div>
+
+
 # clone 🦊
 
 ```bash
