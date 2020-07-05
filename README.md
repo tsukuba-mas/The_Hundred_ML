@@ -113,8 +113,8 @@ https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/
 
 ### Chapter5 Basic Practice
 
-- [ ] [5.1-5.2]
-- [ ] [5.3-5.5]
+- [ ] [5.1] [pdf(4.3-5.1)](https://drive.google.com/file/d/1nJzzIAPkKan3ektHn0YCM8BsiXDPx7uO/view?usp=sharing)
+- [ ] [5.2-5.5]
 - [ ] [5.6-5.7]
 
 ### Chapter6 Deep Learning
