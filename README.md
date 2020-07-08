@@ -103,17 +103,17 @@ https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/
 
 ### Chapter3 Fundamental Algorithmes
 
-- [ ] [3.1-3.2]
-- [ ] [3.3-3.5] [pdf](https://speakerdeck.com/ganariya/lun-jiang-the-hundred-ml-3-dot-3-3-dot-5)
+- [x] [3.1-3.2]
+- [x] [3.3-3.5] [pdf](https://speakerdeck.com/ganariya/lun-jiang-the-hundred-ml-3-dot-3-3-dot-5)
 
 ### Chapter4 Anatomy of a Learning Algorithm
 
-- [ ] [4.1-4.2]
-- [ ] [4.3-4.4]
+- [x] [4.1-4.2] [PDF（manaba）](https://manaba.tsukuba.ac.jp/ct/page_1097346c1097298)
+- [x] [4.3-4.4]
 
 ### Chapter5 Basic Practice
 
-- [ ] [5.1] [pdf(4.3-5.1)](https://drive.google.com/file/d/1nJzzIAPkKan3ektHn0YCM8BsiXDPx7uO/view?usp=sharing)
+- [x] [5.1] [pdf(4.3-5.1)](https://drive.google.com/file/d/1nJzzIAPkKan3ektHn0YCM8BsiXDPx7uO/view?usp=sharing)
 - [ ] [5.2-5.5]
 - [ ] [5.6-5.7]
 
