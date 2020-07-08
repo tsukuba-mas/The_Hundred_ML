@@ -93,58 +93,58 @@ https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/
 
 # Division (tentative) 🦊
 
-### Chapter1 Introduction
+### Chapter1 Introduction [(PDF)](http://bit.ly/theMLbook-Chapter-1)
 
 - [x] [1.1-1.4]
 
-### Chapter2 Notation and Definitions
+### Chapter2 Notation and Definitions [(PDF)](http://bit.ly/theMLbook-Chapter-2)
 
 - [x] [2.1-2.8]
 
-### Chapter3 Fundamental Algorithmes
+### Chapter3 Fundamental Algorithmes [(PDF)](http://bit.ly/theMLbook-Chapter-3)
 
 - [x] [3.1-3.2]
 - [x] [3.3-3.5] [pdf](https://speakerdeck.com/ganariya/lun-jiang-the-hundred-ml-3-dot-3-3-dot-5)
 
-### Chapter4 Anatomy of a Learning Algorithm
+### Chapter4 Anatomy of a Learning Algorithm [(PDF)](http://bit.ly/theMLbook-Chapter-4)
 
 - [x] [4.1-4.2] [PDF（manaba）](https://manaba.tsukuba.ac.jp/ct/page_1097346c1097298)
 - [x] [4.3-4.4]
 
-### Chapter5 Basic Practice
+### Chapter5 Basic Practice [(PDF)](http://bit.ly/theMLbook-Chapter-5)
 
 - [x] [5.1] [pdf(4.3-5.1)](https://drive.google.com/file/d/1nJzzIAPkKan3ektHn0YCM8BsiXDPx7uO/view?usp=sharing)
 - [ ] [5.2-5.5]
 - [ ] [5.6-5.7]
 
-### Chapter6 Deep Learning
+### Chapter6 Deep Learning [(PDF)](http://bit.ly/theMLbook-Chapter-6)
 
 - [ ] [6.1-6.2.1]
 - [ ] [6.2.2]
 
-### Chapter7 Problems and Solutions
+### Chapter7 Problems and Solutions [(PDF)](http://bit.ly/theMLbook-Chapter-7)
 
 - [ ] [7.1-7.3]
 - [ ] [7.4-7.5]
 - [ ] [7.6-7.8]
 - [ ] [7.9-7.11]
 
-### Chapter8 Advanced Practice
+### Chapter8 Advanced Practice [(PDF)](http://bit.ly/theMLbook-Chapter-8)
 
 - [ ] [8.1-8.4]
 - [ ] [8.5-8.8]
 
-### Chapter9 Unsupervised Learning
+### Chapter9 Unsupervised Learning [(PDF)](http://bit.ly/theMLbook-Chapter09)
 
 - [ ] [9.1-9.2.1]
 - [ ] [9.2.2-9.2.4]
 - [ ] [9.3-9.4]
 
-### Chapter10 Other Forms of Learning
+### Chapter10 Other Forms of Learning [(PDF)](http://bit.ly/theMLbook-Chapter-10)
 
 - [ ] [10.1-10.2]
 - [ ] [10.3-10.4]
 
-### Chapter11 Conclusion
+### Chapter11 Conclusion [(PDF)](http://bit.ly/theMLbook-Chapter-11)
 
 - [ ] [11]
