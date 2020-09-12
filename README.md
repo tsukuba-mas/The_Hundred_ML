@@ -125,19 +125,19 @@ https://colab.research.google.com/github/tsukuba-mas/The_Hundred_ML/blob/master/
 ### Chapter7 Problems and Solutions [(PDF)](http://bit.ly/theMLbook-Chapter-7)
 
 - [x] [7.1-7.3]
-- [x] [7.4-7.7]
+- [x] [7.4-7.7] [PDF](https://speakerdeck.com/ganariya/the-hundred-machine-learning-7-dot-4-7-dot-7)
 - [x] [7.8-7.11] [PDF（manaba）](https://manaba.tsukuba.ac.jp/ct/page_1097346c1097298)
 
 ### Chapter8 Advanced Practice [(PDF)](http://bit.ly/theMLbook-Chapter-8)
 
 - [x] [8.1-8.4]
-- [ ] [8.5-8.8]
+- [x] [8.5-8.8]
 
 ### Chapter9 Unsupervised Learning [(PDF)](http://bit.ly/theMLbook-Chapter09)
 
-- [ ] [9.1-9.2.1]
-- [ ] [9.2.2-9.2.4]
-- [ ] [9.3-9.4]
+- [x] [9.1-9.2.1]
+- [x] [9.2.2-9.2.4]
+- [x] [9.3-9.4]
 
 ### Chapter10 Other Forms of Learning [(PDF)](http://bit.ly/theMLbook-Chapter-10)
 
